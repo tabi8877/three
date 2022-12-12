@@ -3,3 +3,5 @@ This is the third time adding the
 This is the four line of the data 
 This is the five data
 After the commited the data will be still in the same 
+The git log will show the all the commits.
+will create for every commit will create the SHA KEY
