@@ -2,3 +2,6 @@ This is file  one in the test 2 is getting updated.
 
 file 2 is going to be upload again ...
 For every commit will add the SHA KEY.
+git log --grep="four no commit"
+git log --since ='12/12/2021'
+git log --until ='12/12/2022'
